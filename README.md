@@ -1,7 +1,6 @@
 # Trabajo Final (Entrega 1)
 
-
-🌴# VIENTOS DEL CARIBE 🌊
+##🌴 *'Resort 'Vientos del Caribe'* 🌊
 
 *"Un descanso entre el mar y la arena"*
 ---
