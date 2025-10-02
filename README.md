@@ -6,7 +6,7 @@
 ---
 
 ### Imagen Representativa  
-![Logo del Resort](https://www.canva.com/design/DAG0mrBFbF4/DpVMr3Zvc7bTqj8_xh6jUg/edit?utm_content=DAG0mrBFbF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+![Logo del Resort](C:\Users\mayli\Downloads\VIENTOS.png)  
 
 ---
 
