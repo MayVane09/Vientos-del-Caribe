@@ -23,28 +23,27 @@
 ---
 
 ### 📖 Descripción General del Proyecto  
-Este proyecto académico tiene como propósito la *planeación, diseño y desarrollo de un Resort temático* apoyado en herramientas digitales y metodologías de gestión colaborativa.  
-
-En este repositorio se recopilan los entregables, avances y documentación que reflejan el esfuerzo del equipo por crear una propuesta sólida, innovadora y funcional.
+Se trata de pryoecto mediante el cual, presentaremos nuestras habilidades para planear y deiseñar estrategicamente la distibución y administración de un resort.
+Aquí, adjuntamos imagenes e información que permite tener una idea de como será nuestro resort.
 
 ---
 
 ###  Equipo Desarrollador  
 
   *Integrantes*
-- Jerónimo Osorio Giraldo
-- Carlos Gabriel Pinto Osorio
+- Maylin Vnessa Martínez Arrieta
+- Vanesa
 
-Todos los integrantes pertenecen al programa de *Ingeniería Industrial*.  
+Ambas pertenecemos al programa de *Ingeniería Industrial*.  
 
 ###  *Habilidades y Fortalezas*
-- *Carlos Gabriel Pinto Osorio* → buen manejo de la tecnología y entendimiento rapido.  
-- *Jerónimo Osorio Giraldo* → habilidades en gestión de proyectos y documentación.
+- Maylin Vanessa Martinez Arrieta: buen manejo de finanzas y administración. 
+- Vanesa : 
   
 ### *Responsabilidades en el Proyecto*
-- *Carlos Gabriel Pinto Osorio* → Diseño del logo, layout visual y bases del proyecto.  
-- *Jerónimo Osorio Giraldo* → Desarrollo del código principal del sistema.
+- Maylin Vanessa Martinez Arrieta: encargada de diseñar el layout, logo  organizar la información en GitHub.
+- Vanessa: Desarrollo del código principal del sistema.
 
 ### *Líder del Equipo*
-⭐ *Carlos Gabriel Pinto Osorio*
+Maylin Vanessa Martinez Arrieta.
 
