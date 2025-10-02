@@ -6,7 +6,7 @@
 ---
 
 ### Imagen Representativa  
-![Logo del Resort](https://media.istockphoto.com/id/1329515378/vector/sunset-retro-sun-of-80s-or-90s-background-for-cyberpunk-disco-of-80-s-and-sunrise-in-miami.jpg?s=612x612&w=0&k=20&c=m3sRd3Y7W07q_GvV5P5G1F4XfhKwAsnvTT7h65HXrtE=)  
+![Logo del Resort](https://www.canva.com/design/DAG0mrBFbF4/DpVMr3Zvc7bTqj8_xh6jUg/edit?utm_content=DAG0mrBFbF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
