@@ -1,11 +1,11 @@
 # Trabajo Final (Entrega 1)
 
 
-## 🌴 Resort *Paraíso del Sol* 🌞  
-*"Descubre tu lugar en el mundo, donde el descanso se convierte en experiencia."*
+## 🌴 VIENTOS DEL CARIBE 🌊
+*"Un descanso entre el mar y la arena"*
 ---
 
-### 🖼 Logo / Imagen Representativa  
+### Imagen Representativa  
 ![Logo del Resort](https://media.istockphoto.com/id/1329515378/vector/sunset-retro-sun-of-80s-or-90s-background-for-cyberpunk-disco-of-80-s-and-sunrise-in-miami.jpg?s=612x612&w=0&k=20&c=m3sRd3Y7W07q_GvV5P5G1F4XfhKwAsnvTT7h65HXrtE=)  
 
 ---
