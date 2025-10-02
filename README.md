@@ -1,7 +1,7 @@
 # Trabajo Final (Entrega 1)
 
 
-##🌴'*VIENTOS DEL CARIBE*' 🌊
+🌴##*VIENTOS DEL CARIBE* 🌊
 
 *"Un descanso entre el mar y la arena"*
 ---
