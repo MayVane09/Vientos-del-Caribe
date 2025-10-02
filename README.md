@@ -1,11 +1,11 @@
 # Trabajo Final (Entrega 1)
 
 
-## 🌴 VIENTOS DEL CARIBE 🌊
+#### 🌴 VIENTOS DEL CARIBE 🌊
 *"Un descanso entre el mar y la arena"*
 ---
 
-### Logotipo del resort6
+### Logotipo del Resort
 ![Logo del Resort](VIENTOS.png)  
 
 ---
