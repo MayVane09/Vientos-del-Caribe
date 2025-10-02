@@ -6,7 +6,7 @@
 ---
 
 ### Logotipo del resort6
-![Logo del Resort]()  
+![Logo del Resort](VIENTOS.png)  
 
 ---
 
