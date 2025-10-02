@@ -5,8 +5,8 @@
 *"Un descanso entre el mar y la arena"*
 ---
 
-### Imagen Representativa  
-![Logo del Resort](C:\Users\mayli\Downloads\VIENTOS.png)  
+### Logotipo del resort6
+![Logo del Resort]()  
 
 ---
 
