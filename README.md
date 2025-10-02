@@ -9,17 +9,16 @@
 
 ---
 
-### 🗺 Layout del Resort  
-El Resort está dividido en las siguientes áreas:  
+### 🗺 Layout del Resort   
 
-- 🏨 *Zona de habitaciones* → suites familiares y villas privadas.  
-- 🍽 *Restaurantes temáticos* → comida local e internacional.  
-- 🏊 *Área de recreación acuática* → piscinas y toboganes.  
-- 🌺 *Spa* → relajación y tratamientos naturales.  
-- 🎭 *Zona de entretenimiento* → teatro, cine y deportes.  
-- 🌳 *Espacios ecológicos* → senderos, jardines y playa privada.
+- Habitaciones: familiares, parejas e individuales.  
+- Restaurantes.   
+- Zona de piscinas: grandes e infantiles.  
+- Bar: todo tipo de bebidas.  
+- Zonas de entretimiento: espacios deportivos, gimnasio y spa. 
+- Más espacios como: playas y hermosos jardines.
 
-<img width="427" height="427" alt="Untitled design" src="https://github.com/user-attachments/assets/31fcc917-8919-4244-8425-2068c975d7c7" />
+<img width="427" height="427" alt="Untitled design" src= />
 
 ---
 
