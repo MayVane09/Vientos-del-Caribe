@@ -9,7 +9,7 @@
 
 ---
 
-### 🗺 Layout del Resort   
+###  Layout del Resort   
 
 - Habitaciones: familiares, parejas e individuales.  
 - Restaurantes.   
@@ -22,7 +22,7 @@
 
 ---
 
-### 📖 Descripción General del Proyecto  
+###  Descripción General del Proyecto  
 Se trata de pryoecto mediante el cual, presentaremos nuestras habilidades para planear y deiseñar estrategicamente la distribución y administración de un resort.
 Aquí, adjuntamos imagenes e información que permite tener una idea de como será nuestro resort.
 
