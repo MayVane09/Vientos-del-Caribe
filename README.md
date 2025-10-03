@@ -23,7 +23,7 @@
 ---
 
 ### 📖 Descripción General del Proyecto  
-Se trata de pryoecto mediante el cual, presentaremos nuestras habilidades para planear y deiseñar estrategicamente la distibución y administración de un resort.
+Se trata de pryoecto mediante el cual, presentaremos nuestras habilidades para planear y deiseñar estrategicamente la distribución y administración de un resort.
 Aquí, adjuntamos imagenes e información que permite tener una idea de como será nuestro resort.
 
 ---
