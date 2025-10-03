@@ -17,7 +17,8 @@
 - Bar: todo tipo de bebidas.  
 - Zonas de entretimiento: espacios deportivos, gimnasio y spa. 
 - Más espacios como: playas y hermosos jardines.
-<img width="427" height="427" alt=
+  
+<img width="427" height="427" alt= Layout.png >
 
 ---
 
