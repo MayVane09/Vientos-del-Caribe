@@ -18,7 +18,7 @@
 - Zonas de entretimiento: espacios deportivos, gimnasio y spa. 
 - Más espacios como: playas y hermosos jardines.
   
-![Layout].(Layout.png)
+<img width="427" height="427" alt="Untitled design" src="Layout.png" />
 
 ---
 
