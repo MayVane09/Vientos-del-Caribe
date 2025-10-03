@@ -18,7 +18,7 @@
 - Zonas de entretimiento: espacios deportivos, gimnasio y spa. 
 - Más espacios como: playas y hermosos jardines.
 
-<img width="427" height="427" alt="Untitled design" src= />
+
 
 ---
 
@@ -32,18 +32,18 @@ Aquí, adjuntamos imagenes e información que permite tener una idea de como ser
 
   *Integrantes*
 - Maylin Vnessa Martínez Arrieta
-- Vanesa
+- Vanesa Lucía Bernal Ruiz
 
 Ambas pertenecemos al programa de *Ingeniería Industrial*.  
 
 ###  *Habilidades y Fortalezas*
 - Maylin Vanessa Martinez Arrieta: buen manejo de finanzas y administración. 
-- Vanesa : 
+- Vanesa Lucía Bernal Ruiz: conocimiento de progrmación.
   
 ### *Responsabilidades en el Proyecto*
 - Maylin Vanessa Martinez Arrieta: encargada de diseñar el layout, logo  organizar la información en GitHub.
-- Vanessa: Desarrollo del código principal del sistema.
-
+- Vanessa Lucía Bernal Ruiz: encargada de crear el pesseudocodigo e identificar las estructuras de datos.
+   
 ### *Líder del Equipo*
-Maylin Vanessa Martinez Arrieta.
+Vanesa Lucía Bernal Ruiz.
 
